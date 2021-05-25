@@ -12,6 +12,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/nLWsLcH/"
          },
          "last_updated":"1621861292"
+       },
       "2":{
          "title":"Gyro Zeppeli",
          "volume":"1",
@@ -19,6 +20,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/0bzVnHq/"
          },
          "last_updated":"1621861292"
+       },
       "3":{
          "title":"Johnny Joestar",
          "volume":"1",
@@ -26,6 +28,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/WjXkG9A/"
          },
          "last_updated":"1621861292"
+       },
       "4":{
          "title":"25 settembre, 1890 -3 ore alla partenza",
          "volume":"1",
@@ -33,6 +36,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/FjcMKsy/"
          },
          "last_updated":"1621861292"
+       },
       "5":{
          "title":"Primo stage, 15000 metri",
          "volume":"1",
@@ -40,6 +44,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/ZwEYjYT/"
          },
          "last_updated":"1621861292"
+       },
       "6":{
          "title":"Il fiume in secca: Diego Brando",
          "volume":"2",
@@ -47,6 +52,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/3648OIc/"
          },
          "last_updated":"1621861292"
+       },
       "7":{
          "title":"Pocoloco e Sandman",
          "volume":"2",
@@ -54,6 +60,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/k30eNXL/"
          },
          "last_updated":"1621861292"
+       },
       "8":{
          "title":"Attraversando la foresta",
          "volume":"2",
@@ -61,6 +68,7 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/QqsLBvm/"
          },
          "last_updated":"1621861292"
+       },
       "9":{
          "title":"Lunga, lunga discesa",
          "volume":"2",
@@ -68,7 +76,6 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/QqsLBvm/"
          },
          "last_updated":"1621861292"
-         }
       }
    }
 }
