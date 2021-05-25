@@ -76,6 +76,38 @@
             "Jojo's Italy":"/proxy/api/imgur/chapter/QqsLBvm/"
          },
          "last_updated":"1621861292"
+       },
+      "10":{
+         "title":"Ultimo sforzo, 2000 metri rimanenti"
+         "volume":"2",
+         "groups":{
+            "Jojo's Italy":"/proxy/api/imgur/chapter/IbxCiId/"
+         },
+         "last_updated":"1621861292"
+       },
+      "11":{
+         "title":"L'ultimo rettilinio, ancora 1000 metri"
+         "volume":"2",
+         "groups":{
+            "Jojo's Italy":"/proxy/api/imgur/chapter/MUM0LCZ/"
+         },
+         "last_updated":"1621861292"
+       },
+      "12":{
+         "title":"Primo stage, squalificato dalla vittoria"
+         "volume":"3",
+         "groups":{
+            "Jojo's Italy":"/proxy/api/imgur/chapter/3zWpI5e/"
+         },
+         "last_updated":"1621861292"
+       },
+      "13":{
+         "title":"Lo sceriffo di nome Mountain Tim"
+         "volume":"3",
+         "groups":{
+            "Jojo's Italy":"/proxy/api/imgur/chapter/BOYsKuc/"
+         },
+         "last_updated":"1621861292"
       }
    }
 }
