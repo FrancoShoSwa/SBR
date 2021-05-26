@@ -108,6 +108,30 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/BOYsKuc/"
 			},
 			"last_updated": "1621861292"
+                },
+		"14": {
+			"title": "Attraverso il deserto dell'Arizona continua la lunga strada",
+			"volume": "3",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/QpTkJy1/"
+			},
+			"last_updated": "1621861292"
+                },
+		"14": {
+			"title": "Attraverso il deserto dell'Arizona continua la lunga strada",
+			"volume": "3",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/QpTkJy1/"
+			},
+			"last_updated": "1622032522"
+                },
+		"15": {
+			"title": "Il deserto dei banditi",
+			"volume": "3",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/G7o1Rvk/"
+			},
+			"last_updated": "1622032522"
 		}
 	}
 }
