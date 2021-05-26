@@ -117,16 +117,8 @@
 			},
 			"last_updated": "1621861292"
                 },
-		"14": {
-			"title": "Attraverso il deserto dell'Arizona continua la lunga strada",
-			"volume": "3",
-			"groups": {
-				"Jojo's Italy": "/proxy/api/imgur/chapter/QpTkJy1/"
-			},
-			"last_updated": "1622032522"
-                },
 		"15": {
-			"title": "Il deserto dei banditi",
+			"title": "Il deserto dei banditi parte 1",
 			"volume": "3",
 			"groups": {
 				"Jojo's Italy": "/proxy/api/imgur/chapter/G7o1Rvk/"
@@ -148,6 +140,22 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/V0zo8ff/"
 			},
 			"last_updated": "1622033176"
+		},
+		"18": {
+			"title": "Il palmo della mano del demonio parte 1",
+			"volume": "4",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/k0qKk11/"
+			},
+			"last_updated": "1622051186"
+		},
+		"19": {
+			"title": "Il palmo della mano del demonio parte 2",
+			"volume": "4",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/5Q82eY5/"
+			},
+			"last_updated": "1622051290"
 		}
 	}
 }
