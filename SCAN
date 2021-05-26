@@ -132,6 +132,22 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/G7o1Rvk/"
 			},
 			"last_updated": "1622032522"
+		},
+		"16": {
+			"title": "Il deserto dei banditi parte 2",
+			"volume": "3",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/BExcD6Z/"
+			},
+			"last_updated": "1622033029"
+		},
+		"17": {
+			"title": "Il deserto dei banditi parte 3",
+			"volume": "3",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/V0zo8ff/"
+			},
+			"last_updated": "1622033176"
 		}
 	}
 }
