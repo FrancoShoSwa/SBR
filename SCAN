@@ -156,6 +156,30 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/5Q82eY5/"
 			},
 			"last_updated": "1622051290"
+		},
+		"20": {
+			"title": "Il dovere di Gyro Zeppeli parte 1",
+			"volume": "4",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/MPFKL8D/"
+			},
+			"last_updated": "1622118902"
+		},
+		"21": {
+			"title": "Il dovere di Gyro Zeppeli parte 2",
+			"volume": "4",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/T80dIkW/"
+			},
+			"last_updated": "1622119003"
+		},
+		"22": {
+			"title": "Il terrorista da un paese lontano parte 1",
+			"volume": "4",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/OUszuSj/"
+			},
+			"last_updated": "1622119072"
 		}
 	}
 }
