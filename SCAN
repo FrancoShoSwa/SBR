@@ -188,6 +188,14 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/DA0T34R/"
 			},
 			"last_updated": "1622207642"
+		},
+		"24": {
+			"title": "Intervallo",
+			"volume": "5",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/RnE70pl/"
+			},
+			"last_updated": "1622207958"
 		}
 	}
 }
