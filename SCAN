@@ -228,6 +228,22 @@
 				"Jojo's Italy": "/proxy/api/imgur/chapter/Di5Jgbd/"
 			},
 			"last_updated": "1622552727"
+		},
+		"29": {
+			"title": "Scary Monsters parte 2",
+			"volume": "6",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/gSAXEXA/"
+			},
+			"last_updated": "1622553018"
+		},
+		"30": {
+			"title": "Scary Monsters parte 3",
+			"volume": "6",
+			"groups": {
+				"Jojo's Italy": "/proxy/api/imgur/chapter/prqogQL/"
+			},
+			"last_updated": "1622553320"
 		}
 	}
 }
